@@ -1,7 +1,7 @@
 Hello Git! hot-fix
-Hello Git!
-Hello Git!
-Hello Git!
-Hello Git!
-Hello Git!
+Hello Git! update
+Hello Git! update
+Hello Git! update
+Hello Git! update
+Hello Git! update
 Hello Git! master hot-fix
